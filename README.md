@@ -1,21 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Jihun&fontSize=95&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=290&section=header&text=Jihun&fontSize=95&animation=twinkling)
 
 <p align="center"> 🌱 Currently Learning </p>
 <p align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Typescript-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-</p>
+  <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 
 
 <p align="center"> 📫  Contact </p>
 <p align="center">
 <a href="https://velog.io/@zeebeck"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
 <a href="jihunkim101112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim101112@gmail.com"/></a>&nbsp
-<a href="https://https://zeebeck.github.io/"><img src="https://img.shields.io/badge/githubpages-ff0000?style=flat-square&logo=githubpages&link=https://https://zeebeck.github.io/"/></a>&nbsp
+<a href="https://https://zeebeck.github.io/"><img src="https://img.shields.io/badge/github-ff0000?style=flat-square&logo=githubpages&link=https://https://zeebeck.github.io/"/></a>&nbsp
 
 </p>
 <p align="center">
