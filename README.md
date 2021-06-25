@@ -14,9 +14,9 @@
 
 <p align="center"> 📫  Contact </p>
 <p align="center">
-<a href="https://velog.io/@zeebeck"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a>&nbsp
+<a href="https://velog.io/@zeebeck"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a>&nbsp
 <a href="mailto:jihunkim101112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim101112@gmail.com"/></a>
-<a href="https://zeebeck.github.io/"><img src="https://img.shields.io/badge/Github&20Blog-181717?style=flat-square&logo=Github&logoColor=white&link=https://zeebeck.github.io/"/></a>&nbsp
+<a href="https://zeebeck.github.io/"><img src="https://img.shields.io/badge/GithubBlog-181717?style=flat-square&logo=Github&logoColor=white&link=https://zeebeck.github.io/"/></a>&nbsp
 
 </p>
 <p align="center">
