@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeebeck&theme=cobalt)]
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeebeck&&show_icons=true&theme=tokyonight)]
 </p>
 
 <div align=center>
