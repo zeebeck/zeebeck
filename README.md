@@ -22,7 +22,8 @@
 
 </p>
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeebeck&theme=cobalt)](https://github.com/zeebeck/github-readme-stats)  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeebeck&theme=cobalt)]
+  (https://github.com/zeebeck/github-readme-stats)  
 </p>
 
 <div align=center>
