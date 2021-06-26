@@ -2,7 +2,6 @@
 
 <p align="center"> 🌱 Currently Learning </p>
 <p align="center">
-<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -10,18 +9,19 @@
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-
+</p>
 
 
 <p align="center"> 📫  Contact </p>
+
 <p align="center">
-<a href="https://velog.io/@zeebeck"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a>&nbsp
-<a href="https://zeebeck.github.io/"><img src="https://img.shields.io/badge/GithubBlog-181717?style=flat-square&logo=Github&logoColor=white&link=https://zeebeck.github.io/"/></a>&nbsp
-<a href="mailto:jihunkim101112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim101112@gmail.com"/></a>
+  <a href="https://velog.io/@zeebeck"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a>&nbsp
+  <a href="https://zeebeck.github.io/"><img src="https://img.shields.io/badge/GithubBlog-181717?style=flat-square&logo=Github&logoColor=white&link=https://zeebeck.github.io/"/></a>&nbsp
+  <a href="mailto:jihunkim101112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim101112@gmail.com"/></a>
 </p>
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeebeck&theme=tokyonight)](https://github.com/zeebeck/github-readme-stats)  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeebeck&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
 </p>
 
 <div align=center>
