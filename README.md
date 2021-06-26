@@ -22,8 +22,9 @@
 
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeebeck&show_icons=true"/></a>&nbsp
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeebeck&theme=cobalt)](https://github.com/zeebeck/github-readme-stats)  
 </p>
+
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeebeck&count_bg=%2332399C&title_bg=%23BEA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>            
 </div>
