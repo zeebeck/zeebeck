@@ -1,6 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=zeebeck&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 
-<p align="center"> 🌱  Currently Learning </p>
+<p align="center"> 🌱 &abspCurrently Learning </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
@@ -12,7 +12,7 @@
 </p>
 <br />
 
-<p align="center"> 📫  Contact </p>
+<p align="center"> 📫&abspContact </p>
 
 <p align="center">
   <a href="https://velog.io/@zeebeck"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a>&nbsp
@@ -20,7 +20,7 @@
   <a href="mailto:jihunkim101112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim101112@gmail.com"/></a>
 </p>
 <br />
-<p align="center"> 📈  Stats </p>
+<p align="center"> 📈&abspStats </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeebeck&&show_icons=true&theme=tokyonight" />
 </p>
