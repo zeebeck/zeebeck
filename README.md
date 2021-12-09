@@ -1,7 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=zeebeck&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 
 <p align="center"> 🔥 Skills </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
@@ -18,7 +17,6 @@
 
 
 <p align="center"> 📫 Contact</p>
-
 <p align="center">
   <a href="https://zeebeck.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&link=https://zeebeck.tistory.com"/></a>&nbsp
   <a href="https://zeebeck.github.io/"><img src="https://img.shields.io/badge/GithubBlog-181717?style=flat-square&logo=Github&logoColor=white&link=https://zeebeck.github.io/"/></a>&nbsp
@@ -26,7 +24,6 @@
 </p>
 <br />
 <p align="center"> 📈 Stats</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeebeck&&show_icons=true&theme=tokyonight" />
 </p>
