@@ -23,6 +23,7 @@
   <a href="mailto:jihunkim101112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim101112@gmail.com"/></a>
 </p>
 <br />
+
 <p align="center"> 📈 Stats</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeebeck&&show_icons=true&theme=tokyonight" />
