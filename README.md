@@ -1,3 +1,4 @@
+
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=zeebeck&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 
 <p align="center"> 🔥 Skills </p>
@@ -23,6 +24,7 @@
   <a href="mailto:jihunkim101112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim101112@gmail.com"/></a>
 </p>
 <br />
+
 
 <p align="center"> 📈 Stats</p>
 <p align="center">
