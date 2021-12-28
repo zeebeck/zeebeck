@@ -3,6 +3,8 @@
 
 <p align="center"> 🔥 Currently learning </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/-Swift-%23ffffff?logo=Swift&logoColor=#F05138"></a>&nbsp  
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
