@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-iOS-%23000000?style=flat-square&logo=Apple&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/-Swift-%23ffffff?style=flat-square&logo=Swift&logoColor=#F05138"></a>&nbsp  
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>&nbsp  
+
 </p>
 <br />
 <p align="center"> 📫  Contact </p>
