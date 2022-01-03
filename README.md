@@ -1,7 +1,7 @@
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=zeebeck&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 
-<p align="center"> 🔥 Currently learning </p>
+<p align="center"> 🔥 Currently Learning </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
