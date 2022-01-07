@@ -1,7 +1,7 @@
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=zeebeck&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 
-<p align="center">🔥 Currently Learning 🔥</p>
+<p align="center">🔥 Currently Learning</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
@@ -15,14 +15,14 @@
 
 </p>
 <br />
-<p align="center"> 📫 Contact 📫</p>
+<p align="center">📫 Contact</p>
 <p align="center">
   <a href="https://zeebeck.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&link=https://zeebeck.tistory.com"/></a>&nbsp
   <a href="https://zeebeck.github.io/"><img src="https://img.shields.io/badge/GithubBlog-181717?style=flat-square&logo=Github&logoColor=white&link=https://zeebeck.github.io/"/></a>&nbsp
   <a href="mailto:jihunkim101112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim101112@gmail.com"/></a>
 </p>
 <br />
-<p align="center">📈 Stats 📈</p>
+<p align="center">📈 Stats</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeebeck&&show_icons=true&theme=tokyonight" />
 </p>
