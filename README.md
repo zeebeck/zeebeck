@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-iOS-%23000000?style=flat-square&logo=Apple&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/-Swift-%23ffffff?style=flat-square&logo=Swift&logoColor=#F05138"></a>&nbsp  
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>/a>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
 
 
 </p>
